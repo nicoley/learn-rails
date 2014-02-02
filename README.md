@@ -1,4 +1,5 @@
-learn-rails
-===========
+#learn-rails
 
-Project to practice Ruby and learn Rails
+## About This Project
+Excited to learn Rails with help from the
+RailsApps project!
